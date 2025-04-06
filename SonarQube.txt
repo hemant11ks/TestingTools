@@ -1,0 +1,9 @@
+SonarQube is a popular, open-source platform for continuous code inspection and review. It helps developers and organizations improve the quality, reliability, and maintainability of their codebase by detecting bugs, vulnerabilities, and code smells. Here's an overview of SonarQube and its features, along with examples:
+
+Key Features:
+
+Code Analysis: SonarQube analyzes code in various programming languages, including Java, C#, C++, and many more. It checks for issues such as syntax errors, undefined variables, and type mismatches.
+Issue Detection: SonarQube identifies potential issues, including bugs, vulnerabilities, and code smells. It provides detailed information about each issue, including its location, severity, and recommended fix.
+Code Coverage: SonarQube measures code coverage, which indicates the percentage of code that is executed during automated tests. This helps developers identify areas of the code that need more testing.
+Code Duplication: SonarQube detects duplicated code blocks, which can make maintenance and updates more difficult.
+Code Complexity: SonarQube analyzes code complexity, including metrics such as cyclomatic complexity, which can indicate potential maintainability issues.
